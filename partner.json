@@ -1,0 +1,14 @@
+{
+  "proxies": [
+    {
+      "id": "proxysio",
+      "logo": "https://github.com/TaHanh/ipfighter.git",
+      "name": "Proxys.io",
+      "description": "Proxys.io provides diverse proxies, supporting security and anonymity with more than 88 countries and multiple protocols",
+      "descriptionVi": "Proxys.io cung cấp nhiều loại proxy, hỗ trợ bảo mật và ẩn danh với hơn 88 quốc gia và nhiều giao thức",
+      "url": "https://proxys.io/en",
+      "isDisplay": "false",
+      "tag": "proxy-service-global"
+    }
+  ]
+}
