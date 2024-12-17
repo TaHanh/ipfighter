@@ -7,9 +7,9 @@
       "description": "Proxys.io provides diverse proxies, supporting security and anonymity with more than 88 countries and multiple protocols",
       "descriptionVi": "Proxys.io cung cấp nhiều loại proxy, hỗ trợ bảo mật và ẩn danh với hơn 88 quốc gia và nhiều giao thức",
       "url": "https://proxys.io/en",
-      "isDisplay": "true",
+      "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": "false"
+      "favorite": false
     },
     {
       "id": "lunaproxy",
@@ -18,9 +18,9 @@
       "description": "Quality proxy service with 200M+ residential IPs, enabling secure browsing and account management.",
       "descriptionVi": "Dịch vụ proxy chất lượng với hơn 200 triệu IP dân dụng, cho phép duyệt web và quản lý tài khoản an toàn.",
       "url": "https://www.lunaproxy.com/",
-      "isDisplay": "true",
+      "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": "false"
+      "favorite": false
     },
     {
       "id": "abcproxy",
@@ -29,9 +29,9 @@
       "description": "ABCProxy: Over 200M+ residential IPs, high-speed connections, and powerful proxy tools for all needs.",
       "descriptionVi": "ABCProxy: Hơn 200 triệu IP dân cư, tốc độ cao, và công cụ proxy mạnh mẽ phục vụ mọi nhu cầu.",
       "url": "https://www.abcproxy.com/",
-      "isDisplay": "true",
+      "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": "false"
+      "favorite": false
     },
     {
       "id": "goproxy",
@@ -40,9 +40,9 @@
       "description": "GoProxy provides DataCenter Proxy, Rotating, Static Residential IPs for Web Scraping, Tickets, or Multi-accounting.",
       "descriptionVi": "GoProxy cung cấp Proxy Datacenter với IP xoay hoặc tĩnh để thu thập dữ liệu web hoặc quản lý đa tài khoản.",
       "url": "https://www.goproxy.com/",
-      "isDisplay": "true",
+      "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": "false"
+      "favorite": false
     },
     {
       "id": "asocks",
@@ -51,9 +51,9 @@
       "description": "Secure mobile and residential proxies at great prices, trusted by over 100,000 users globally.",
       "descriptionVi": "Proxy di động và dân cư giá tốt, đáng tin cậy bởi hơn 100,000 người dùng trên toàn thế giới.",
       "url": "https://asocks.com/",
-      "isDisplay": "true",
+      "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": "false"
+      "favorite": false
     },
     {
       "id": "922s5proxy",
@@ -62,9 +62,9 @@
       "description": "Global SOCKS5 proxies with 190+ locations for anonymity and seamless access.",
       "descriptionVi": "Proxy SOCKS5 toàn cầu, 190+ vị trí, ẩn danh hiệu quả và truy cập liền mạch",
       "url": "https://www.922proxy.com/",
-      "isDisplay": "true",
+      "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": "false"
+      "favorite": false
     },
     {
       "id": "proxyseller",
@@ -73,9 +73,9 @@
       "description": "Affordable proxies from over 50 countries with individual use and customizable options.",
       "descriptionVi": "Proxy giá cả phải chăng từ hơn 50 quốc gia với các tùy chọn sử dụng riêng biệt và có thể tùy chỉnh.",
       "url": "https://proxy-seller.com/",
-      "isDisplay": "true",
+      "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": "false"
+      "favorite": false
     },
     {
       "id": "netnut",
@@ -84,9 +84,9 @@
       "description": "NetNut offers high-speed, reliable residential proxies with global IP access for secure web scraping.",
       "descriptionVi": "NetNut cung cấp proxy dân cư tốc độ cao, ổn định, truy cập IP toàn cầu an toàn cho thu thập dữ liệu",
       "url": "https://netnut.io/",
-      "isDisplay": "true",
+      "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": "false"
+      "favorite": false
     },
     {
       "id": "ip2world",
@@ -95,9 +95,9 @@
       "description": "IP2World Proxy Service Provides 90M+ Real, Clean, Anonymous Residential Proxy IPs Cover 220+ Regions Worldwide.",
       "descriptionVi": "Dịch vụ Proxy IP2World cung cấp hơn 90 triệu IP Proxy dân cư, ẩn danh, bao phủ hơn 220 khu vực trên toàn thế giới",
       "url": "https://www.ip2world.com/",
-      "isDisplay": "true",
+      "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": "false"
+      "favorite": false
     },
     {
       "id": "smartproxy",
@@ -106,9 +106,9 @@
       "description": "Smartproxy offers reliable residential proxies to bypass geo-restrictions and ensure anonymous browsing",
       "descriptionVi": "Smartproxy cung cấp proxy dân cư đáng tin cậy giúp vượt qua các hạn chế địa lý và duy trì ẩn danh",
       "url": "https://smartproxy.com/",
-      "isDisplay": "true",
+      "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": "false"
+      "favorite": false
     },
     {
       "id": "iproyal",
@@ -117,9 +117,9 @@
       "description": "IPRoyal offers 32M+ IPs across 195 countries, with features like auto-rotation and instant IP changes.",
       "descriptionVi": "IPProyal cung cấp hơn 32 triệu IP trên 195 quốc gia, với các tính năng như tự động xoay vòng và thay đổi IP tức thời.",
       "url": "https://iproyal.com/",
-      "isDisplay": "true",
+      "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": "true"
+      "favorite": true
     },
     {
       "id": "ipfoxy",
@@ -128,9 +128,9 @@
       "description": "IPFoxy offers premium proxy services with global coverage and 99.9% uptime for businesses worldwide.",
       "descriptionVi": "IPFoxy cung cấp dịch vụ proxy chất lượng với phạm vi toàn cầu và thời gian hoạt động ổn định 99,9% cho các doanh nghiệp",
       "url": "https://www.ipfoxy.com/",
-      "isDisplay": "true",
+      "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": "true"
+      "favorite": true
     }
   ]
 }
