@@ -9,7 +9,8 @@
       "url": "https://proxys.io/en",
       "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": false
+      "favorite": false,
+      "colorBackground": "rgba(62, 105, 3, 0.10)"
     },
     {
       "id": "lunaproxy",
@@ -20,7 +21,8 @@
       "url": "https://www.lunaproxy.com/",
       "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": false
+      "favorite": false,
+      "colorBackground": "rgba(117, 201, 72, 0.10)"
     },
     {
       "id": "abcproxy",
@@ -31,7 +33,8 @@
       "url": "https://www.abcproxy.com/",
       "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": false
+      "favorite": false,
+      "colorBackground": "#EBF0FF"
     },
     {
       "id": "goproxy",
@@ -42,7 +45,8 @@
       "url": "https://www.goproxy.com/",
       "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": false
+      "favorite": false,
+      "colorBackground": "#EBEEFB"
     },
     {
       "id": "asocks",
@@ -53,7 +57,8 @@
       "url": "https://asocks.com/",
       "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": false
+      "favorite": false,
+      "colorBackground": "#EBF0FF"
     },
     {
       "id": "922s5proxy",
@@ -64,7 +69,8 @@
       "url": "https://www.922proxy.com/",
       "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": false
+      "favorite": false,
+      "colorBackground": "#FEF0EF"
     },
     {
       "id": "proxyseller",
@@ -75,7 +81,8 @@
       "url": "https://proxy-seller.com/",
       "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": false
+      "favorite": false,
+      "colorBackground": "#EBF8F1"
     },
     {
       "id": "netnut",
@@ -86,7 +93,8 @@
       "url": "https://netnut.io/",
       "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": false
+      "favorite": false,
+      "colorBackground": "#FEF1E9"
     },
     {
       "id": "ip2world",
@@ -97,7 +105,8 @@
       "url": "https://www.ip2world.com/",
       "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": false
+      "favorite": false,
+      "colorBackground": "#E8F0FF"
     },
     {
       "id": "smartproxy",
@@ -108,7 +117,8 @@
       "url": "https://smartproxy.com/",
       "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": false
+      "favorite": false,
+      "colorBackground": "#FEECEE"
     },
     {
       "id": "iproyal",
@@ -119,7 +129,8 @@
       "url": "https://iproyal.com/",
       "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": true
+      "favorite": true,
+      "colorBackground": "#EBFCFD"
     },
     {
       "id": "ipfoxy",
@@ -130,7 +141,44 @@
       "url": "https://www.ipfoxy.com/",
       "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": true
+      "favorite": true,
+      "colorBackground": "#E8F0FF"
+    },
+    {
+      "id": "soax",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/soax.png",
+      "name": "SOAX",
+      "description": "SOAX is a data collection platform used by top companies to extract and utilize public data.",
+      "descriptionVi": "SOAX là nền tảng thu thập dữ liệu được các công ty hàng đầu sử dụng để trích xuất và sử dụng dữ liệu công khai.",
+      "url": "https://soax.com/?afmc=lp",
+      "isDisplay": true,
+      "tag": "proxy-service-global",
+      "favorite": false,
+      "colorBackground": "#EDEEFB"
+    },
+    {
+      "id": "piaproxy",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/pia-proxy.png",
+      "name": "PIA Proxy",
+      "description": "350 million+ global Socks5 residential proxies, no charge for invalid IP.",
+      "descriptionVi": "Hơn 350 triệu proxy dân dụng Socks5 toàn cầu, không tính phí cho IP không hợp lệ.",
+      "url": "https://www.piaproxy.com/?co=IPFighter&ck=?02",
+      "isDisplay": true,
+      "tag": "proxy-service-global",
+      "favorite": true,
+      "colorBackground": "#E7F1FC"
+    },
+    {
+      "id": "thordata",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/thordata.png",
+      "name": "Thordata",
+      "description": "Access 60M+ residential IPs from 190 countries for scraping at competitive prices.",
+      "descriptionVi": "Truy cập hơn 60 triệu địa chỉ IP dân dụng từ 190 quốc gia để thu thập dữ liệu với mức giá cạnh tranh.",
+      "url": "https://www.thordata.com/?ls=CiPcEjWD&lk=118",
+      "isDisplay": true,
+      "tag": "proxy-service-global",
+      "favorite": true,
+      "colorBackground": "#E9F8F4"
     }
   ]
 }
