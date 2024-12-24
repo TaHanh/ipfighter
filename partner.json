@@ -18,7 +18,7 @@
       "name": "LunaProxy",
       "description": "Quality proxy service with 200M+ residential IPs, enabling secure browsing and account management.",
       "descriptionVi": "Dịch vụ proxy chất lượng với hơn 200 triệu IP dân dụng, cho phép duyệt web và quản lý tài khoản an toàn.",
-      "url": "https://www.lunaproxy.com/",
+      "url": "https://www.lunaproxy.com/?ls=ipfighter&lk=?02",
       "isDisplay": true,
       "tag": "proxy-service-global",
       "favorite": false,
@@ -66,7 +66,7 @@
       "name": "922 S5 Proxy",
       "description": "Global SOCKS5 proxies with 190+ locations for anonymity and seamless access.",
       "descriptionVi": "Proxy SOCKS5 toàn cầu, 190+ vị trí, ẩn danh hiệu quả và truy cập liền mạch",
-      "url": "https://www.922proxy.com/",
+      "url": "https://www.922proxy.com/?utm-source=922S5&utm-keyword=?ipfighter",
       "isDisplay": true,
       "tag": "proxy-service-global",
       "favorite": false,
@@ -153,7 +153,7 @@
       "url": "https://soax.com/?afmc=lp",
       "isDisplay": true,
       "tag": "proxy-service-global",
-      "favorite": true,
+      "favorite": false,
       "colorBackground": "#EDEEFB"
     },
     {
@@ -299,6 +299,126 @@
       "tag": "antidetect-browsers",
       "favorite": false,
       "colorBackground": "#B5D0FA"
+    },
+    {
+      "id": "sx.org",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/sx-org.png",
+      "name": "SX.ORG",
+      "description": "SX.ORG - a fresh proxy market with 12M+ clean trusted IP-addresses of all types and 200+ GEOs",
+      "descriptionVi": "SX.ORG - một thị trường proxy mới với hơn 12 triệu địa chỉ IP đáng tin cậy sạch sẽ thuộc mọi loại và hơn 200 quốc gia",
+      "url": "https://sx.org/?c=IPFIGHTER",
+      "isDisplay": true,
+      "tag": "proxy-service-global",
+      "favorite": false,
+      "colorBackground": "#e6f7ff"
+    },
+    {
+      "id": "9proxy",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/9proxy.png",
+      "name": "9Proxy",
+      "description": "9Proxy offers 9M+ residential IPs in 90 countries from $0.04/IP, featuring a clean pool & IP refund.",
+      "descriptionVi": "9Proxy cung cấp hơn 9 triệu IP dân cư tại 90 quốc gia với giá chỉ 0,04$/IP, có dịch vụ lưu trữ IP sạch và hoàn tiền IP.",
+      "url": "https://9proxy.com/",
+      "isDisplay": true,
+      "tag": "proxy-service-global",
+      "favorite": false,
+      "colorBackground": "#E9F2FD"
+    },
+    {
+      "id": "lightning-proxies",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/lightning-proxies.png",
+      "name": "LightningProxies",
+      "description": "LightningProxies offers 10M+ IPs, secure, high-speed performance, and scalable web data extraction.",
+      "descriptionVi": "LightningProxies cung cấp hơn 10 triệu IP, hiệu suất an toàn, tốc độ cao và trích xuất dữ liệu web có thể mở rộng.",
+      "url": "https://lightningproxies.net/",
+      "isDisplay": true,
+      "tag": "proxy-service-global",
+      "favorite": false,
+      "colorBackground": "#E6EAF5"
+    },
+    {
+      "id": "lightning-proxies",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/lightning-proxies.png",
+      "name": "LightningProxies",
+      "description": "LightningProxies offers 10M+ IPs, secure, high-speed performance, and scalable web data extraction.",
+      "descriptionVi": "LightningProxies cung cấp hơn 10 triệu IP, hiệu suất an toàn, tốc độ cao và trích xuất dữ liệu web có thể mở rộng.",
+      "url": "https://lightningproxies.net/",
+      "isDisplay": true,
+      "tag": "proxy-service-global",
+      "favorite": false,
+      "colorBackground": "#E6EAF5"
+    },
+    {
+      "id": "coproxy",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/coproxy.png",
+      "name": "Coproxy",
+      "description": "CoProxy: Premium HTTP & SOCKS5 proxies, competitive pricing, 24/7 support.",
+      "descriptionVi": "CoProxy: Proxy HTTP & SOCKS5 cao cấp, giá cả cạnh tranh, hỗ trợ 24/7.",
+      "url": "https://coproxy.io/",
+      "isDisplay": true,
+      "tag": "proxy-service-global",
+      "favorite": false,
+      "colorBackground": "#E8E9F4"
+    },
+    {
+      "id": "coronium",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/coronium.png",
+      "name": "Coronium",
+      "description": "Coronium.io: 4G/5G proxy marketplace offering high-trust mobile IPs from diverse global locations.",
+      "descriptionVi": "Coronium.io: Thị trường proxy 4G/5G cung cấp IP di động có độ tin cậy cao từ nhiều địa điểm khác nhau",
+      "url": "https://coronium.io/",
+      "isDisplay": true,
+      "tag": "proxy-service-global",
+      "favorite": false,
+      "colorBackground": "#E5E5E5"
+    },
+    {
+      "id": "live-proxies",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/live-proxies.png",
+      "name": "Live Proxies",
+      "description": "Live Proxies offers B2C and B2B options, including Rotating, Static Residential, and Mobile IPs.",
+      "descriptionVi": "Live Proxies cung cấp các tùy chọn B2C và B2B, bao gồm IP xoay vòng, IP tĩnh dân dụng và IP di động.",
+      "url": "https://liveproxies.io/",
+      "isDisplay": true,
+      "tag": "proxy-service-global",
+      "favorite": false,
+      "colorBackground": "#E8F6FE"
+    },
+    {
+      "id": "cherry-proxy",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/cherry-proxy.png",
+      "name": "Cherry Proxy",
+      "description": "Starting at $0.04, access 80M+ dynamic & static residential IPs in 190+ countries worldwide.",
+      "descriptionVi": "Chỉ với 0,04$, bạn có thể truy cập 80 triệu+ địa chỉ IP động và tĩnh tại 190 quốc gia+ trên toàn thế giới.",
+      "url": "https://www.cherryproxy.com/?utm-source=ting&utm-keyword=?ipfighter",
+      "isDisplay": true,
+      "tag": "proxy-service-global",
+      "favorite": false,
+      "colorBackground": "#EDF2FF"
+    },
+    {
+      "id": "lauth",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/lauth.png",
+      "name": "Lauth",
+      "description": "Browser for ad management, teamwork and no blocking.",
+      "descriptionVi": "Trình duyệt để quản lý quảng cáo, làm việc nhóm và không chặn.",
+      "url": "https://www.lauth.com.br/?campaign=trial?utm_source=site&utm_medium=organic&utm_campaign=partnership&utm_term=&utm_content=IPfighter",
+      "isDisplay": true,
+      "tag": "antidetect-browsers",
+      "favorite": false,
+      "colorBackground": "#D5EAFC"
+    },
+    {
+      "id": "linken-sphere",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/linken-sphere.png",
+      "name": "Linken Sphere",
+      "description": "Browser for anonymous web browsing and online security.",
+      "descriptionVi": "Trình duyệt cho việc duyệt web ẩn danh và bảo mật trực tuyến.",
+      "url": "https://ls.app/",
+      "isDisplay": true,
+      "tag": "antidetect-browsers",
+      "favorite": false,
+      "colorBackground": "#EAF8FB"
     }
   ]
 }
