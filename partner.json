@@ -337,18 +337,6 @@
       "colorBackground": "#E6EAF5"
     },
     {
-      "id": "lightning-proxies",
-      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/lightning-proxies.png",
-      "name": "LightningProxies",
-      "description": "LightningProxies offers 10M+ IPs, secure, high-speed performance, and scalable web data extraction.",
-      "descriptionVi": "LightningProxies cung cấp hơn 10 triệu IP, hiệu suất an toàn, tốc độ cao và trích xuất dữ liệu web có thể mở rộng.",
-      "url": "https://lightningproxies.net/",
-      "isDisplay": true,
-      "tag": "proxy-service-global",
-      "favorite": false,
-      "colorBackground": "#E6EAF5"
-    },
-    {
       "id": "coproxy",
       "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/coproxy.png",
       "name": "Coproxy",
