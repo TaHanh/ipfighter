@@ -22,7 +22,7 @@
       "isDisplay": true,
       "tag": "proxy-service-global",
       "favorite": false,
-      "colorBackground": "#D9EBEE"
+      "colorBackground": "#E6F0FF"
     },
     {
       "id": "abcproxy",
@@ -299,6 +299,54 @@
       "tag": "antidetect-browsers",
       "favorite": false,
       "colorBackground": "#B5D0FA"
+    },
+    {
+      "id": "simplynode",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/simply-node.png",
+      "name": "Simply Node",
+      "description": "SimplyNode: 50M+ ethical IPs, precise targeting, HTTP/SOCKS/UDP support, 99.6% success rate. Reliable proxies!",
+      "descriptionVi": "SimplyNode: Hơn 50 triệu IP đáng tin cậy, nhắm mục tiêu chính xác, hỗ trợ HTTP/SOCKS/UDP, tỷ lệ thành công cao.",
+      "url": "https://www.simplynode.io",
+      "isDisplay": true,
+      "tag": "proxy-service-global",
+      "favorite": false,
+      "colorBackground": "#E8E8E8"
+    },
+    {
+      "id": "dataimpulse",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/datalmpulse.png",
+      "name": "DataImpulse",
+      "description": "Custom proxy services, global requests, fast connections, and efficient data collection!",
+      "descriptionVi": "Dịch vụ proxy tùy chỉnh, yêu cầu toàn cầu, kết nối nhanh và thu thập dữ liệu hiệu quả!",
+      "url": "https://dataimpulse.com/?utm_source=IPFighter&utm_medium=post&utm_campaign=IPFighter_collab",
+      "isDisplay": true,
+      "tag": "proxy-service-global",
+      "favorite": false,
+      "colorBackground": "#F0EEFA"
+    },
+    {
+      "id": "my4gbproxy",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/my4gbproxy.png",
+      "name": "My4GBProxy",
+      "description": "Access fast, secure, and reliable 4G mobile proxies for seamless browsing and online privacy.",
+      "descriptionVi": "Truy cập proxy di động 4G nhanh chóng, an toàn và đáng tin cậy để duyệt web liền mạch và bảo mật trực tuyến.",
+      "url": "https://my4gproxy.com/?utm_source=site&utm_medium=partnership&utm_campaign=ipfighter",
+      "isDisplay": true,
+      "tag": "proxy-service-global",
+      "favorite": false,
+      "colorBackground": "#FDE9EE"
+    },
+    {
+      "id": "dicloak",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/dicloak.png",
+      "name": "DICloak",
+      "description": "DICloak is a cutting-edge anti-detect browser designed to provide you with unparalleled privacy and security online.",
+      "descriptionVi": "DICloak là trình duyệt chống phát hiện tiên tiến được thiết kế để cung cấp cho bạn sự riêng tư và bảo mật trực tuyến vô song.",
+      "url": "https://dicloak.com/?utm_source=ipfighter",
+      "isDisplay": true,
+      "tag": "antidetect-browsers",
+      "favorite": false,
+      "colorBackground": "#E8FDF7"
     }
   ]
 }
