@@ -264,18 +264,7 @@
       "favorite": false,
       "colorBackground": "#FFF7EC"
     },
-    {
-      "id": "hidemyacc",
-      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/hidemyacc.png",
-      "name": "Hidemyacc",
-      "description": "Hidemyacc helps users maintain anonymity while managing multiple accounts, offering increased privacy and security​.",
-      "descriptionVi": "Hidemyacc giúp người dùng duy trì tính ẩn danh trong khi quản lý nhiều tài khoản, mang lại sự riêng tư và bảo mật cao hơn.",
-      "url": "https://hidemyacc.com/",
-      "isDisplay": true,
-      "tag": "antidetect-browsers",
-      "favorite": true,
-      "colorBackground": "#081A3E"
-    },
+    
     {
       "id": "dolphinanty",
       "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/dolphin-anty.png",
