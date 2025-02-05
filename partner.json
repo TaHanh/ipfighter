@@ -181,126 +181,6 @@
       "colorBackground": "#E9F8F4"
     },
     {
-      "id": "captchabypass",
-      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/captcha-bypass.png",
-      "name": "CAPTCHA Bypass",
-      "description": "Focuses on solving reCAPTCHA and similar CAPTCHAs with automated bots or human support.",
-      "descriptionVi": "Tập ​​trung vào việc giải quyết reCAPTCHA và các CAPTCHA tương tự bằng bot tự động hoặc hỗ trợ của con người.",
-      "url": "https://captchas.io/",
-      "isDisplay": true,
-      "tag": "captcha-solvers",
-      "favorite": false,
-      "colorBackground": "#EFCCD3"
-    },
-    {
-      "id": "nextcaptcha",
-      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/nextcaptcha.png",
-      "name": "NextCaptcha",
-      "description": "Cheap And Fast Recaptcha Solving Service.",
-      "descriptionVi": "Dịch vụ giải quyết Recaptcha giá rẻ và nhanh chóng.",
-      "url": "https://nextcaptcha.com/",
-      "isDisplay": true,
-      "tag": "captcha-solvers",
-      "favorite": false,
-      "colorBackground": "#FDF6EF"
-    },
-    {
-      "id": "capsolver",
-      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/capsolver.png",
-      "name": "Capsolver",
-      "description": "Capsolver offers fast, cost-effective captcha-solving services, supporting various types of captchas.",
-      "descriptionVi": "Capsolver cung cấp dịch vụ giải captcha nhanh chóng, chi phí thấp, hỗ trợ nhiều loại captcha.",
-      "url": "https://www.capsolver.com/",
-      "isDisplay": true,
-      "tag": "captcha-solvers",
-      "favorite": false,
-      "colorBackground": "#F0FBF1"
-    },
-    {
-      "id": "2captcha",
-      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/2captcha.png",
-      "name": "2Captcha",
-      "description": "A service where real people solve CAPTCHAs for you. It supports image, reCAPTCHA, hCaptcha, and more.",
-      "descriptionVi": "Dịch vụ nơi người thật giải quyết CAPTCHA cho bạn. Dịch vụ này hỗ trợ hình ảnh, reCAPTCHA, hCaptcha, và nhiều hơn thế.",
-      "url": "https://2captcha.com/",
-      "isDisplay": true,
-      "tag": "captcha-solvers",
-      "favorite": false,
-      "colorBackground": "#EBF8F8"
-    },
-    {
-      "id": "xreacher",
-      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/XReacher.png",
-      "name": "XReacher",
-      "description": "Xreacher automates finding leads and sending DMs, enabling up to 500k targeted messages monthly with ease.",
-      "descriptionVi": "Xreacher tự động hóa tìm kiếm khách hàng và gửi tin nhắn, hỗ trợ 500k tin nhắn mỗi tháng dễ dàng.",
-      "url": "https://xreacher.com/",
-      "isDisplay": true,
-      "tag": "automation-software",
-      "favorite": false,
-      "colorBackground": "#E5F7FD"
-    },
-    {
-      "id": "autoigdm",
-      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/AutoIGDM.png",
-      "name": "AutoIGDM",
-      "description": "AutoIGDM automates Instagram outreach with AI-driven targeting and personalized messaging, ideal for agencies.",
-      "descriptionVi": "AutoIGDM tự động hóa kết nối Instagram với AI thông minh và tin nhắn cá nhân hóa, lý tưởng cho các agency.",
-      "url": "https://autoigdm.com/",
-      "isDisplay": true,
-      "tag": "automation-software",
-      "favorite": false,
-      "colorBackground": "#FFE6F2"
-    },
-    {
-      "id": "reachowl",
-      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/reachowl.png",
-      "name": "REACHOWL",
-      "description": "ReachOwl simplifies social selling by automating personalized outreach on Facebook and Instagram.",
-      "descriptionVi": "ReachOwl giúp đơn giản hóa bán hàng qua mạng xã hội bằng cách tự động hóa liên lạc cá nhân hóa trên Facebook và Instagram.",
-      "url": "https://reachowl.com/",
-      "isDisplay": true,
-      "tag": "automation-software",
-      "favorite": false,
-      "colorBackground": "#FFF7EC"
-    },
-    {
-      "id": "hidemyacc",
-      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/hidemyacc.png",
-      "name": "Hidemyacc",
-      "description": "Hidemyacc helps users maintain anonymity while managing multiple accounts, offering increased privacy and security​.",
-      "descriptionVi": "Hidemyacc giúp người dùng duy trì tính ẩn danh trong khi quản lý nhiều tài khoản, mang lại sự riêng tư và bảo mật cao hơn.",
-      "url": "https://hidemyacc.com/",
-      "isDisplay": true,
-      "tag": "antidetect-browsers",
-      "favorite": true,
-      "colorBackground": "#081A3E"
-    },
-    {
-      "id": "dolphinanty",
-      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/dolphin-anty.png",
-      "name": "Dolphin Anty",
-      "description": "Dolphin Anty is an antidetect browser offering secure account management and high anonymity​.",
-      "descriptionVi": "Dolphin Anty là trình duyệt chống phát hiện cung cấp khả năng quản lý tài khoản an toàn và tính ẩn danh cao​.",
-      "url": "https://dolphin-anty.com/",
-      "isDisplay": true,
-      "tag": "antidetect-browsers",
-      "favorite": false,
-      "colorBackground": "#F5EAF8"
-    },
-    {
-      "id": "bitbrowser",
-      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/bitbrowser.png",
-      "name": "BitBrowser",
-      "description": "BitBrowser enables multi-window use, multi-account login and prevents account bans.",
-      "descriptionVi": "BitBrowser cho phép sử dụng nhiều cửa sổ, đăng nhập nhiều tài khoản và ngăn chặn lệnh cấm tài khoản.",
-      "url": "https://www.bitbrowser.net/",
-      "isDisplay": true,
-      "tag": "antidetect-browsers",
-      "favorite": false,
-      "colorBackground": "#B5D0FA"
-    },
-    {
       "id": "simplynode",
       "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/simply-node.png",
       "name": "Simply Node",
@@ -316,8 +196,8 @@
       "id": "dataimpulse",
       "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/datalmpulse.png",
       "name": "DataImpulse",
-      "description": "Custom proxy services, global requests, fast connections, and efficient data collection!",
-      "descriptionVi": "Dịch vụ proxy tùy chỉnh, yêu cầu toàn cầu, kết nối nhanh và thu thập dữ liệu hiệu quả!",
+      "description": "Experience DataImpulse: global IPs, pay-as-you-go, no expiry, tutorials, 24/7 expert support!",
+      "descriptionVi": "Trải nghiệm DataImpulse: IP toàn cầu, thanh toán theo mức sử dụng, không hết hạn, hướng dẫn, hỗ trợ chuyên gia 24/7!",
       "url": "https://dataimpulse.com/?utm_source=IPFighter&utm_medium=post&utm_campaign=IPFighter_collab",
       "isDisplay": true,
       "tag": "proxy-service-global",
@@ -325,9 +205,9 @@
       "colorBackground": "#F0EEFA"
     },
     {
-      "id": "my4gbproxy",
+      "id": "my4gproxy",
       "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/my4gbproxy.png",
-      "name": "My4GBProxy",
+      "name": "My4GProxy",
       "description": "Access fast, secure, and reliable 4G mobile proxies for seamless browsing and online privacy.",
       "descriptionVi": "Truy cập proxy di động 4G nhanh chóng, an toàn và đáng tin cậy để duyệt web liền mạch và bảo mật trực tuyến.",
       "url": "https://my4gproxy.com/?utm_source=site&utm_medium=partnership&utm_campaign=ipfighter",
@@ -335,42 +215,6 @@
       "tag": "proxy-service-global",
       "favorite": false,
       "colorBackground": "#FDE9EE"
-    },
-    {
-      "id": "dicloak",
-      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/dicloak.png",
-      "name": "DICloak",
-      "description": "DICloak is a cutting-edge anti-detect browser designed to provide you with unparalleled privacy and security online.",
-      "descriptionVi": "DICloak là trình duyệt chống phát hiện tiên tiến được thiết kế để cung cấp cho bạn sự riêng tư và bảo mật trực tuyến vô song.",
-      "url": "https://dicloak.com/?utm_source=ipfighter",
-      "isDisplay": true,
-      "tag": "antidetect-browsers",
-      "favorite": false,
-      "colorBackground": "#E8FDF7"
-    },
-    {
-      "colorBackground": "#EAF8FB",
-      "description": "Browser for anonymous web browsing and online security.",
-      "descriptionVi": "Trình duyệt cho việc duyệt web ẩn danh và bảo mật trực tuyến.",
-      "favorite": false,
-      "id": "linken-sphere",
-      "isDisplay": true,
-      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/linken-sphere.png",
-      "name": "Linken Sphere",
-      "tag": "antidetect-browsers",
-      "url": "https://ls.app/"
-    },
-    {
-      "id": "lauth",
-      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/lauth.png",
-      "name": "Lauth",
-      "description": "Browser for ad management, teamwork and no blocking.",
-      "descriptionVi": "Trình duyệt để quản lý quảng cáo, làm việc nhóm và không chặn.",
-      "url": "https://www.lauth.com.br/?campaign=trial?utm_source=site&utm_medium=organic&utm_campaign=partnership&utm_term=&utm_content=IPfighter",
-      "isDisplay": true,
-      "tag": "antidetect-browsers",
-      "favorite": false,
-      "colorBackground": "#D5EAFC"
     },
     {
       "id": "cherry-proxy",
@@ -455,6 +299,171 @@
       "tag": "proxy-service-global",
       "favorite": false,
       "colorBackground": "#e6f7ff"
+    },
+
+
+  
+    {
+      "id": "hidemyacc",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/hidemyacc.png",
+      "name": "Hidemyacc",
+      "description": "Hidemyacc helps users maintain anonymity while managing multiple accounts, offering increased privacy and security​.",
+      "descriptionVi": "Hidemyacc giúp người dùng duy trì tính ẩn danh trong khi quản lý nhiều tài khoản, mang lại sự riêng tư và bảo mật cao hơn.",
+      "url": "https://hidemyacc.com/",
+      "isDisplay": true,
+      "tag": "antidetect-browsers",
+      "favorite": true,
+      "colorBackground": "#081A3E"
+    },
+    {
+      "id": "lauth",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/lauth.png",
+      "name": "Lauth",
+      "description": "Browser for ad management, teamwork and no blocking.",
+      "descriptionVi": "Trình duyệt để quản lý quảng cáo, làm việc nhóm và không chặn.",
+      "url": "https://www.lauth.com.br/?campaign=trial?utm_source=site&utm_medium=organic&utm_campaign=partnership&utm_term=&utm_content=IPfighter",
+      "isDisplay": true,
+      "tag": "antidetect-browsers",
+      "favorite": false,
+      "colorBackground": "#D5EAFC"
+    },
+    {
+      "colorBackground": "#EAF8FB",
+      "description": "Browser for anonymous web browsing and online security.",
+      "descriptionVi": "Trình duyệt cho việc duyệt web ẩn danh và bảo mật trực tuyến.",
+      "favorite": false,
+      "id": "linken-sphere",
+      "isDisplay": true,
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/linken-sphere.png",
+      "name": "Linken Sphere",
+      "tag": "antidetect-browsers",
+      "url": "https://ls.app/"
+    },
+    {
+      "id": "dicloak",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/dicloak.png",
+      "name": "DICloak",
+      "description": "DICloak is a cutting-edge anti-detect browser designed to provide you with unparalleled privacy and security online.",
+      "descriptionVi": "DICloak là trình duyệt chống phát hiện tiên tiến được thiết kế để cung cấp cho bạn sự riêng tư và bảo mật trực tuyến vô song.",
+      "url": "https://dicloak.com/?utm_source=ipfighter",
+      "isDisplay": true,
+      "tag": "antidetect-browsers",
+      "favorite": false,
+      "colorBackground": "#E8FDF7"
+    },
+    {
+      "id": "bitbrowser",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/bitbrowser.png",
+      "name": "BitBrowser",
+      "description": "BitBrowser enables multi-window use, multi-account login and prevents account bans.",
+      "descriptionVi": "BitBrowser cho phép sử dụng nhiều cửa sổ, đăng nhập nhiều tài khoản và ngăn chặn lệnh cấm tài khoản.",
+      "url": "https://www.bitbrowser.net/",
+      "isDisplay": true,
+      "tag": "antidetect-browsers",
+      "favorite": false,
+      "colorBackground": "#B5D0FA"
+    },
+    {
+      "id": "dolphinanty",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/dolphin-anty.png",
+      "name": "Dolphin Anty",
+      "description": "Dolphin Anty is an antidetect browser offering secure account management and high anonymity​.",
+      "descriptionVi": "Dolphin Anty là trình duyệt chống phát hiện cung cấp khả năng quản lý tài khoản an toàn và tính ẩn danh cao​.",
+      "url": "https://dolphin-anty.com/",
+      "isDisplay": true,
+      "tag": "antidetect-browsers",
+      "favorite": false,
+      "colorBackground": "#F5EAF8"
+    },
+
+
+
+    {
+      "id": "xreacher",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/XReacher.png",
+      "name": "XReacher",
+      "description": "Xreacher automates finding leads and sending DMs, enabling up to 500k targeted messages monthly with ease.",
+      "descriptionVi": "Xreacher tự động hóa tìm kiếm khách hàng và gửi tin nhắn, hỗ trợ 500k tin nhắn mỗi tháng dễ dàng.",
+      "url": "https://xreacher.com/",
+      "isDisplay": true,
+      "tag": "automation-software",
+      "favorite": false,
+      "colorBackground": "#E5F7FD"
+    },
+    {
+      "id": "autoigdm",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/AutoIGDM.png",
+      "name": "AutoIGDM",
+      "description": "AutoIGDM automates Instagram outreach with AI-driven targeting and personalized messaging, ideal for agencies.",
+      "descriptionVi": "AutoIGDM tự động hóa kết nối Instagram với AI thông minh và tin nhắn cá nhân hóa, lý tưởng cho các agency.",
+      "url": "https://autoigdm.com/",
+      "isDisplay": true,
+      "tag": "automation-software",
+      "favorite": false,
+      "colorBackground": "#FFE6F2"
+    },
+    {
+      "id": "reachowl",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/reachowl.png",
+      "name": "REACHOWL",
+      "description": "ReachOwl simplifies social selling by automating personalized outreach on Facebook and Instagram.",
+      "descriptionVi": "ReachOwl giúp đơn giản hóa bán hàng qua mạng xã hội bằng cách tự động hóa liên lạc cá nhân hóa trên Facebook và Instagram.",
+      "url": "https://reachowl.com/",
+      "isDisplay": true,
+      "tag": "automation-software",
+      "favorite": false,
+      "colorBackground": "#FFF7EC"
+    },
+
+
+    
+    {
+      "id": "captchabypass",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/captcha-bypass.png",
+      "name": "CAPTCHA Bypass",
+      "description": "Focuses on solving reCAPTCHA and similar CAPTCHAs with automated bots or human support.",
+      "descriptionVi": "Tập ​​trung vào việc giải quyết reCAPTCHA và các CAPTCHA tương tự bằng bot tự động hoặc hỗ trợ của con người.",
+      "url": "https://captchas.io/",
+      "isDisplay": true,
+      "tag": "captcha-solvers",
+      "favorite": false,
+      "colorBackground": "#EFCCD3"
+    },
+    {
+      "id": "nextcaptcha",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/nextcaptcha.png",
+      "name": "NextCaptcha",
+      "description": "Cheap And Fast Recaptcha Solving Service.",
+      "descriptionVi": "Dịch vụ giải quyết Recaptcha giá rẻ và nhanh chóng.",
+      "url": "https://nextcaptcha.com/",
+      "isDisplay": true,
+      "tag": "captcha-solvers",
+      "favorite": false,
+      "colorBackground": "#FDF6EF"
+    },
+    {
+      "id": "capsolver",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/capsolver.png",
+      "name": "Capsolver",
+      "description": "Capsolver offers fast, cost-effective captcha-solving services, supporting various types of captchas.",
+      "descriptionVi": "Capsolver cung cấp dịch vụ giải captcha nhanh chóng, chi phí thấp, hỗ trợ nhiều loại captcha.",
+      "url": "https://www.capsolver.com/",
+      "isDisplay": true,
+      "tag": "captcha-solvers",
+      "favorite": false,
+      "colorBackground": "#F0FBF1"
+    },
+    {
+      "id": "2captcha",
+      "logo": "https://raw.githubusercontent.com/TaHanh/ipfighter/refs/heads/main/image/2captcha.png",
+      "name": "2Captcha",
+      "description": "A service where real people solve CAPTCHAs for you. It supports image, reCAPTCHA, hCaptcha, and more.",
+      "descriptionVi": "Dịch vụ nơi người thật giải quyết CAPTCHA cho bạn. Dịch vụ này hỗ trợ hình ảnh, reCAPTCHA, hCaptcha, và nhiều hơn thế.",
+      "url": "https://2captcha.com/",
+      "isDisplay": true,
+      "tag": "captcha-solvers",
+      "favorite": false,
+      "colorBackground": "#EBF8F8"
     }
   ]
 }
